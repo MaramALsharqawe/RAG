@@ -101,27 +101,3 @@ OPENAI_API_KEY=your_api_key_here
 </ul>
 
 <hr>
-
-<h2>🧩 Future Improvements</h2>
-<ul>
-  <li>Support PDF and Excel files</li>
-  <li>Add OCR for images</li>
-  <li>Authentication</li>
-  <li>Deploy as desktop app</li>
-  <li>Offline local LLM</li>
-</ul>
-
-<hr>
-
-<h2>👩‍💻 Author</h2>
-<p>
-<b>Maram Al-Sharqawe</b><br>
-BI Engineer | Data Scientist | AI & Cybersecurity Enthusiast
-</p>
-
-<hr>
-
-<h2>⭐ Notes</h2>
-<p>
-This project improves productivity and knowledge retrieval in real BI environments.
-</p>
